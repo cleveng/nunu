@@ -149,7 +149,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
                 {text: 'Docker', link: 'docker'},
                 {text: 'Swarm', link: 'swarm'},
                 {text: 'K8s', link: 'k8s'},
-                {text: 'System', link: 'system'},
+                {text: 'Systemd', link: 'systemd'},
             ]
         },
         {
